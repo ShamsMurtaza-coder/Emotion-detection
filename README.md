@@ -181,7 +181,7 @@ Expected training time: **~12 minutes on GPU**
 **Shams Murtaza**
 - 🎓 BTech CSE (AI & ML) — 3rd Year
 - 💻 GitHub: [@ShamsMurtaza-coder](https://github.com/ShamsMurtaza-coder)
-- 🔗 LinkedIn: [Add your LinkedIn URL here]
+- 🔗 LinkedIn: https://www.linkedin.com/in/shams-murtaza-957276365/
 
 ---
 
